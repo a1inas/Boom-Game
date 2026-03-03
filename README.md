@@ -92,7 +92,7 @@
 
 | Меню выбора уровня | Меню выбора скина персонажа |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/9c4b50a9-d7ff-44fc-976d-fc2d9f0d4d6c" width="400" /> | <img src="https://github.com/user-attachments/assets/ccd1b84e-f2b4-4ae0-a09d-497f28fa69c9" width="400" /> |
+| <img src="https://github.com/user-attachments/assets/86ee4ae1-aaa2-40d2-8277-94b748f23853" width="400" /> | <img src="https://github.com/user-attachments/assets/d567749b-2e47-45c7-a864-4f3d1c1cf06f" width="400" /> |
 
 | Игровое поле | Меню паузы |
 |:---:|:---:|
