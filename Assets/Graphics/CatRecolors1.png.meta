@@ -1,0 +1,2226 @@
+fileFormatVersion: 2
+guid: 7d6b9b05907b879419978afa5fd04e4a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatRecolors1_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab9cb76ea00554dbc84163384657a9
+      internalID: 1986490502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530c7d446aea0742a54f301425be362
+      internalID: 2008228178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711e95d5d6d20845b1e39daf87d639e
+      internalID: -1947197724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5295f47e055a46b31f5a0fc140c8c
+      internalID: 101645890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85194616f00db458536e955f9461be
+      internalID: -1516481932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459adf3f26cd7aa4298fc5c2c2520862
+      internalID: 423614560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34979d6a744a34147b020f89df0974af
+      internalID: -941909290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af632fd8c762d246b526de78f7590ed
+      internalID: -260226475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75fa24de62213c4a828bd20118a5dfe
+      internalID: -2141532565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aacd7c10d23109419eeeb1900b61e28
+      internalID: 1401579605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 336
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97be768bc411a34aa2f124a3193d736
+      internalID: -1956413371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 336
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c48f22ec4e67646b6f95e615ada67c
+      internalID: -1692592248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a3c38a86f450d4b9853bb0e3b86189
+      internalID: -1455027717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eefc021fe2e924c84cc325b6bd053a
+      internalID: 221013835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900df1af1ab394a498eabd806e4f7f99
+      internalID: -702089457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1582201dce0bdcb418c13bf67d11f218
+      internalID: -1472659877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e02c08f68953429952377a95ee7ee
+      internalID: 1009321432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db5a580e5c3b1b4e9a9f5cbf66e0713
+      internalID: -1342362147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c51679ea624b45b100926e83fb59a
+      internalID: -1048018856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5960c38f157553e4e92dbde8d9d9f35a
+      internalID: -1557362981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03abd2a4a06d0ea4eb6265e66e22faad
+      internalID: 1343888634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9e5b92f2ae104e8fd1af0d56caf24
+      internalID: 971371610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 288
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb13899ef0f49c449173c2dc18ee852
+      internalID: 575273743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 288
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fcce91155a3ec4c8d762c6f4ef3cbf
+      internalID: -1460023521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a88a54bba6abb4ab7b3eb07e566fc2
+      internalID: -319830852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 240
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08cc30f367ed3043a3fc2244c419c2a
+      internalID: -1350105943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac77e7113891843b43908288ca3ddc
+      internalID: 1867086615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371652be213a0aa44a2842de2262386c
+      internalID: -127248701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 240
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea20ec9df4469a94590498721a888beb
+      internalID: 817647153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4705fa78f2ba8d4449ccd81e45b27b05
+      internalID: -1541494709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf7f4665c5e674ea0d29fc6d7ca6ab
+      internalID: 800145452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dab6a59ded64d349a6b62467262a35f
+      internalID: 850989055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276f9c29f6fc5d8429a33c5d2895603c
+      internalID: -193803819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304bca488b1a10a49bad0d0e74b8466c
+      internalID: -1073778203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 240
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748b9a422462d341bbcda332456eb24
+      internalID: 739762289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1443286aea91440a35d867ee20c8be
+      internalID: -587575626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5ef2d5f6e80234ba1adb5601d31af2
+      internalID: 1947189231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48c32d12120f944ae02371acfd1716
+      internalID: -806463551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 192
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6c52d92b5c5e40929a17b5a921d6c
+      internalID: 2064244794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a705cb6a3cda4da8ec90fb9665566
+      internalID: -959575141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71700f59d91af3c46bbc54f096364fc1
+      internalID: 972191233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a76d3880769b840ae9eecfdc866f37
+      internalID: 2067303404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44adecc9ee7ee1d49a3a3e02e4183e13
+      internalID: -1523522831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f9c3ed0942754ba8f935a7b8bfae4
+      internalID: -1637583548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b731f229cfb8a428b2517eb2597f7a
+      internalID: -208816912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6dede7c3866cb458d469b291f090cb
+      internalID: -527717274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 192
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88f906f50fea748b4d3de92fcdcd3d
+      internalID: 165203825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d051c3ae12c74083c2c4e9c963a7e
+      internalID: -1837228871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20540d4c42ae1134a858c5681d7b0400
+      internalID: 939284077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 144
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63a54ce243f584d96c3222058dc52d
+      internalID: 1870305873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1fea6a993620d48bffc4903b19ce08
+      internalID: -297370284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c450bffc5af84ab2e81a193bc9eea
+      internalID: -518507251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd01eb16a47d942ad57eabe78592cb
+      internalID: -1100719436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b51e991bd91f1449d38729ce881fbf
+      internalID: 1981643309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33518f717d3fee48bb9fc559bfb59dd
+      internalID: -1734889975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 144
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73603407ac09274bbae4925599e8c3c
+      internalID: 628221484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45368b0067afe3418aa381ac3b8a6fe
+      internalID: 77393173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0c4ef538f8e846961461fb0190408
+      internalID: -1643484435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_58
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 144
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d8d1337a1426e47b4c8bf6ee52b0ba
+      internalID: -676890490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80571e477b42ed34d8ce784b38ce5fea
+      internalID: -1110345915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65099d44c49db8c4e8636d3e0b2a8409
+      internalID: 1577519780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0918acddf72edcc4a967db2560717e73
+      internalID: 1914418339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94050bbbcd684942a8e7f20d5890e14
+      internalID: 343257813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c35e6fa655cb64285ef51dcad5e228
+      internalID: -891178392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c86c84138257428162c16cb22dcaa
+      internalID: 1993349457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_65
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfa40d1ea202b94aba5b1f1c2387a0a
+      internalID: 717508070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e6360d80136f48a90b9df4516cee0
+      internalID: -144422662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596e080f9045034ab1c65983e22eab7
+      internalID: -424711643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_68
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b7e40bd37c5a4d88a08da8f313201
+      internalID: 310543430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cad690727ff6c4bb65e1317b4abc84
+      internalID: -1974038905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 96
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cc77094bfa7334e935a4baf4fc033e
+      internalID: -675768934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 96
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d168fd0b6da1a174584023b345164b0b
+      internalID: -1515439238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c61b3bc4ef004b88ea550c6905853
+      internalID: -448947498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac664e43dcc9354089674d3123b44a7
+      internalID: 1001349868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f33825e7f05a54a9a8c30292cf6912
+      internalID: -2128265967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562d90ca85945449b447f609dea80d2
+      internalID: -1489889159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ae6d097c272914fba630a7c811ae18
+      internalID: -991402587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ee579084c9815448145479e642884a
+      internalID: 944595111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07c54edb339974eb8985816257ae21
+      internalID: -1936619784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75761a86021c5dd4fb31360bc8fa5261
+      internalID: -1453888196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a8d57b38cd2cc46acb326c019bf09c
+      internalID: 1155626409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a84a37eccaadb4fab9f27eb9890e98
+      internalID: -177829251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 48
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f44983655e9c34c8ee3ff29f1cefe9
+      internalID: -1422580080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76290ae7d855d75488ba00a794270bcb
+      internalID: 559343095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab31f3bb218b6418e6bbac2b91a666
+      internalID: -851983179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320a671540fc06458ccbbc6b2d71e19
+      internalID: 18574811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961f72db22bd1f43a9018eb62f3e65b
+      internalID: 377911739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_87
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e318cae67060419feed9a8e21f7c8
+      internalID: 396790910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cdaa01716762846b7d99643bd86290
+      internalID: -1809708960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4668437d68e99d44a6188bd67909bd2
+      internalID: -1463758093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf37e1339d72d4087a6715688a4318
+      internalID: 1503962813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_91
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06f17ecdba4ec4290688de4bf04c30
+      internalID: -1673300670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_92
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0ed7da84f25b642ad93edf675e8af3
+      internalID: 248607550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_93
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1558aa30715a49994ed93c5d815f9
+      internalID: 413767832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f804484c77fe814eab04dbfad70157e
+      internalID: -864618763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatRecolors1_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202fcb25606d9843a8e04e47702d8ba
+      internalID: -1139129578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CatRecolors1_0: 1986490502
+      CatRecolors1_1: 2008228178
+      CatRecolors1_10: -1956413371
+      CatRecolors1_11: -1692592248
+      CatRecolors1_12: -1455027717
+      CatRecolors1_13: 221013835
+      CatRecolors1_14: -702089457
+      CatRecolors1_15: -1472659877
+      CatRecolors1_16: 1009321432
+      CatRecolors1_17: -1342362147
+      CatRecolors1_18: -1048018856
+      CatRecolors1_19: -1557362981
+      CatRecolors1_2: -1947197724
+      CatRecolors1_20: 1343888634
+      CatRecolors1_21: 971371610
+      CatRecolors1_22: 575273743
+      CatRecolors1_23: -1460023521
+      CatRecolors1_24: -319830852
+      CatRecolors1_25: -1350105943
+      CatRecolors1_26: 1867086615
+      CatRecolors1_27: -127248701
+      CatRecolors1_28: 817647153
+      CatRecolors1_29: -1541494709
+      CatRecolors1_3: 101645890
+      CatRecolors1_30: 800145452
+      CatRecolors1_31: 850989055
+      CatRecolors1_32: -193803819
+      CatRecolors1_33: -1073778203
+      CatRecolors1_34: 739762289
+      CatRecolors1_35: -587575626
+      CatRecolors1_36: 1947189231
+      CatRecolors1_37: -806463551
+      CatRecolors1_38: 2064244794
+      CatRecolors1_39: -959575141
+      CatRecolors1_4: -1516481932
+      CatRecolors1_40: 972191233
+      CatRecolors1_41: 2067303404
+      CatRecolors1_42: -1523522831
+      CatRecolors1_43: -1637583548
+      CatRecolors1_44: -208816912
+      CatRecolors1_45: -527717274
+      CatRecolors1_46: 165203825
+      CatRecolors1_47: -1837228871
+      CatRecolors1_48: 939284077
+      CatRecolors1_49: 1870305873
+      CatRecolors1_5: 423614560
+      CatRecolors1_50: -297370284
+      CatRecolors1_51: -518507251
+      CatRecolors1_52: -1100719436
+      CatRecolors1_53: 1981643309
+      CatRecolors1_54: -1734889975
+      CatRecolors1_55: 628221484
+      CatRecolors1_56: 77393173
+      CatRecolors1_57: -1643484435
+      CatRecolors1_58: -676890490
+      CatRecolors1_59: -1110345915
+      CatRecolors1_6: -941909290
+      CatRecolors1_60: 1577519780
+      CatRecolors1_61: 1914418339
+      CatRecolors1_62: 343257813
+      CatRecolors1_63: -891178392
+      CatRecolors1_64: 1993349457
+      CatRecolors1_65: 717508070
+      CatRecolors1_66: -144422662
+      CatRecolors1_67: -424711643
+      CatRecolors1_68: 310543430
+      CatRecolors1_69: -1974038905
+      CatRecolors1_7: -260226475
+      CatRecolors1_70: -675768934
+      CatRecolors1_71: -1515439238
+      CatRecolors1_72: -448947498
+      CatRecolors1_73: 1001349868
+      CatRecolors1_74: -2128265967
+      CatRecolors1_75: -1489889159
+      CatRecolors1_76: -991402587
+      CatRecolors1_77: 944595111
+      CatRecolors1_78: -1936619784
+      CatRecolors1_79: -1453888196
+      CatRecolors1_8: -2141532565
+      CatRecolors1_80: 1155626409
+      CatRecolors1_81: -177829251
+      CatRecolors1_82: -1422580080
+      CatRecolors1_83: 559343095
+      CatRecolors1_84: -851983179
+      CatRecolors1_85: 18574811
+      CatRecolors1_86: 377911739
+      CatRecolors1_87: 396790910
+      CatRecolors1_88: -1809708960
+      CatRecolors1_89: -1463758093
+      CatRecolors1_9: 1401579605
+      CatRecolors1_90: 1503962813
+      CatRecolors1_91: -1673300670
+      CatRecolors1_92: 248607550
+      CatRecolors1_93: 413767832
+      CatRecolors1_94: -864618763
+      CatRecolors1_95: -1139129578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &501011033797868203
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8718809821186722422}
+  - component: {fileID: 718331209659195931}
+  m_Layer: 0
+  m_Name: PowerUpManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8718809821186722422
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501011033797868203}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.621464, y: 1.1296293, z: -0.047947306}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &718331209659195931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501011033797868203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c9167050eaecc4e99dea01da29bc30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerUpPrefabs:
+  - {fileID: 3504906373253043810, guid: 6417a9a6a93a63f48879e06f7af4f71b, type: 3}
+  - {fileID: 5237590211001613846, guid: d109e93d852c1254fa3edda1bb54cf30, type: 3}
+  - {fileID: 8170124093097127935, guid: 6a70a0c4a63a9234eaa422c6eb9fdd60, type: 3}
+  - {fileID: 4854169030516803473, guid: 9d662dfeacf068f49b9466683145f6d5, type: 3}
+  - {fileID: 6260325761107275431, guid: 26152ac6f4f45644693e2c7163aed141, type: 3}
+  - {fileID: 194609742138774004, guid: 7eebb5127f581f94e8130973e4622a2c, type: 3}
+  - {fileID: 6476498814364314031, guid: 568e58d42ae791442a8bc9744c5c52d4, type: 3}
+  spawnInterval: 5
+  spawnAreaMin: {x: -8.4, y: -8}
+  spawnAreaMax: {x: 18.6, y: 5}
+  cellSize: 1
